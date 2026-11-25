@@ -29,7 +29,7 @@ Copie os números de `reports/comparacao.json`.
 | Alias         |Versão | RMSE   | MAE    | R²    |
 |---------------|-------|--------|--------|-------|
 | `@champion`   |  4.0  | 90.753 | 62.872 | 0.683 |
-| `@challenger` |  6.0  | 62.894 | 41.50  | 0.848 |
+| `@challenger` |  6.0  | 62.894 | 41.506 | 0.848 |
 
 ## 3. Decisão
 
