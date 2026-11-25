@@ -24,7 +24,7 @@ done
 
 Copie os números de `reports/comparacao.json`.
 
-**Período do teste:** ___ a ___ (___ linhas)
+**Período do teste:** 04/12/2012 a 31/12/2012 (670 linhas)
 
 | Alias         |Versão | RMSE   | MAE    | R²    |
 |---------------|-------|--------|--------|-------|
